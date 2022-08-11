@@ -5,7 +5,7 @@ Using python, I implemented the nearest neighbor algorithm to deliver package ob
 
 
 
-Scenario:
+# Scenario:
 
 
 The Western Governors University Parcel Service (WGUPS) needs to determine the best route and delivery distribution for their Daily Local Deliveries (DLD) because packages 
@@ -20,7 +20,7 @@ While you work on this assessment, take into consideration the specific delivery
 
 The intent is to use this solution (program) for this specific location and to use the same program in many cities in each state where WGU has a presence. As such, you will need to include detailed comments, following the industry-standard Python style guide, to make your code easy to read and to justify the decisions you made while writing your program
 
-Assumptions:
+# Assumptions:
 
 
 
@@ -36,9 +36,9 @@ The package ID is unique; there are no collisions.
 No further assumptions exist or are allowed.
 
 
-Rubric:
+# Rubric:
 
-Section 1: Programming/Coding
+
 
 
     A. Identify the algorithm that will be used to create a program to deliver the packages and meets all  requirements specified in the scenario.
@@ -110,9 +110,9 @@ Section 1: Programming/Coding
         3.  Provide screenshots to show package status of all packages at a time between 12:03 p.m. and 1:12 p.m.
 
     H.  Run your code and provide screenshots to capture the complete execution of your code.
+    
+    
 
-
-Section 2: Annotations
 
 
     I.  Justify your choice of algorithm by doing the following:
