@@ -1,4 +1,4 @@
-# PackageDeliveryApp - Data Structures and Algorithms II 
+# Package Delivery Program - Data Structures and Algorithms II 
 Summary:
 
 Using python, I implemented the nearest neighbor algorithm to deliver package objects all over a city while handling special constraints. This app allows for a user to upload of their own city, distance, and package data via csv files.  It also utilizes a self-adjusting data structure (chaining hash table) to hold the package data. Finally, I implemented a command line interface which allows the user to request package data at a  requested time. 
